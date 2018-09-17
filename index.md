@@ -19,7 +19,9 @@ Also I would like to add that some of the concept that I will use in my examples
 
 
 ## Table of Contents
-### EL Diagrama and Separation of concerns
+### Diagram and Separation of concerns
+<img width="550" src="https://github.com/nahumzs/react-architecture/blob/master/assets/El_Diagrama.png" alt="React Architecture Diagram" />
+
 ### Introduction
 ### Services
 ### Providers
