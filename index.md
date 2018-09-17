@@ -16,7 +16,12 @@ Also I would like to add that some of the concept that I will use in my examples
 
 
 ## Table of Contents
-
-- EL Diagrama and Separation of concerns
-- Introduction
-- 
+### EL Diagrama and Separation of concerns
+### Introduction
+### Services
+### Providers
+#### Provider Provider
+#### Provider Render Props
+### The Bridge
+### Containers
+### Building the UI
