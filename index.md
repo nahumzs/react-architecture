@@ -6,6 +6,9 @@ Experiences, ideas and phylosopies were from using only controlled components an
 
 During these time I have ideate an architecture for the apps/features that I build, which based it's design in a series of layers that specialized in dealing with specific concerns of the App that is been build, Allowing the developer to reason only about one specific concept at the time.
 
+## Audicence
+
+
 ## Goal
 
 My goal for sharing this is to help other new comers and current react developers to understand how to apply better the different patterns that exist on the react ecosystem.
@@ -25,3 +28,8 @@ Also I would like to add that some of the concept that I will use in my examples
 ### The Bridge
 ### Containers
 ### Building the UI
+#### Stateles components
+#### Compound Components by Extending Children
+#### Render Props Components
+#### Context base Components
+#### High Order Component
