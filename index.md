@@ -30,7 +30,7 @@ The intendend audience are developers which might has previous experience workin
 
 ## Perfsonal Goal
 
-My personal goal is to document the way I learned to architect react applications and hoping that doing it can help other react developers to be exposed to this experience.
+Share my previous experience and hoping someone else find this document useful. ❤️
 
 ### The Architecture and The Separation of Concerns
 <img width="550" src="https://github.com/nahumzs/react-architecture/blob/master/assets/El_Diagrama.png" alt="React Architecture Diagram" />
