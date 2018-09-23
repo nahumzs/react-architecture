@@ -30,7 +30,7 @@ The intendend audience are developers which might has previous experience workin
 
 ## Personal Goal
 
-Share my previous experience and hoping someone else find this document useful. ❤️
+Share my previous experience and hoping someone else found this document useful. ❤️
 
 ### The Architecture and The Separation of Concerns
 <img width="550" src="https://github.com/nahumzs/react-architecture/blob/master/assets/El_Diagrama.png" alt="React Architecture Diagram" />
