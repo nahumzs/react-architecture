@@ -28,7 +28,7 @@ For the purpose of this Document I will be using the React State as my primary s
 ## Audicence
 The intendend audience are developers which might has previous experience working with React or developers which are trying to explore a way to organize their app in what I consider a more meaninful way. 
 
-## Perfsonal Goal
+## Personal Goal
 
 Share my previous experience and hoping someone else find this document useful. ❤️
 
